@@ -1,11 +1,11 @@
-# Code Book Shelves
+# Code Book Study
 
 안녕하세요.<br/>
 개발 도서를 읽고 공유하는 스터디 모임입니다.<br/>
 프론트엔드 취준과 이직을 목표로 면접준비를 목표로 책을 선정하고, 면접 질문대비에 대해 준비하고자 합니다.<br/>
 
-2025년 6월에 만들어져 활동하는 중입니다.
-
+2025년 6월에 만들어져 활동하는 중입니다.<br/>
 현재 읽고 있는 책은 "[면접을 위한 CS 전공지식 노트](https://product.kyobobook.co.kr/detail/S000001834833)" 입니다.<br/>
+스터디 활동 내용이 궁금하시다면 "[Our Sheleves](https://code-book-study.github.io/shelves/#/)"에 방문해주세요!
 
 저희와 같이 하기를 원하신다면 대표 메일로 연락주세요.

@@ -3,14 +3,15 @@
 안녕하세요!<br/>
 개발 도서를 함께 읽고 핵심 내용을 정리하며,<br/>
 **프론트엔드 취·이직 면접 대비**에 초점을 맞춘 스터디 모임입니다.<br/>
-<i>(설립 시점 : 2025년 6월)</i>
+
 
 ### 현재 교재 : 「면접을 위한 CS 전공지식 노트」
 ### 운영 방식
 -	주 1회 온라인 모임 (월요일 20:00pm, 디스코드)
 -	해당 주차 분량 요약 & 심화 질문 공유
 -	모의 면접으로 실제 질문-답변 연습
--	기록은 공개 블로그 [Our Sheleves](https://code-book-study.github.io/shelves/#/)에 아카이빙
+-	기록은 공개 블로그 [Our Sheleves](https://code-book-study.github.io/shelves/#/), 리포 [shelves](https://github.com/code-book-study/shelves) 에 아카이빙
+
 ### 모집 대상
 -	프론트엔드 취업·이직 준비생
 -	CS 기초 및 프론트엔드 기술 면접을 체계적으로 다지고 싶은 개발자
